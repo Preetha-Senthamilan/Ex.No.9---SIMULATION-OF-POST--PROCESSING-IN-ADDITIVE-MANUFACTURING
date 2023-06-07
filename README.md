@@ -46,9 +46,13 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2023-06-07 113404](https://github.com/Preetha-Senthamilan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119390282/d70f4eaa-8d19-405e-b7c4-069acdd58ffe)
+![Screenshot 2023-06-07 113336](https://github.com/Preetha-Senthamilan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119390282/c0106cf3-e9d1-4612-9042-63fbd4e04a0c)
 
-### Name:
-### Register Number:
+![Screenshot 2023-06-07 113428](https://github.com/Preetha-Senthamilan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119390282/e3214245-270f-49a5-bf53-9f7ea6ad6d2c)
+
+### Name: Preetha S
+### Register Number: 212222230110
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
